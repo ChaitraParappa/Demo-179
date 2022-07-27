@@ -18,6 +18,13 @@ namespace FilpTheCoin
             return c;
         }
 
+        public static double Subtraction(int a ,int b)
+        {
+            double c = a - b;
+
+            return c;
+        }
+
         public static void CalculatePercentage(int value)
         {
 
